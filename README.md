@@ -10,11 +10,16 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 ### My Recent projects 
 [EDA ON PENGUIN DATASET] (http://github.com/Nilesh358/EDA-ON-PENGUIN.git)
+
 [WEB SCRAPPING] (http://github.com/Nilesh358/Nilesh-Web-Scrapping.git)
+
 [FORMULA ENGINE] (http://github.com/Nilesh358/FORMULA-ENGINE.git)
 ### Skills
 Programming: Python(Numpy,Scipy,Pandas,Matplotlib) 
+
 Database: MYSQL
+
 Tools: Anaconda Navigator, Jupyter Notebook
+
 Data Visualization Tool: Tableau Desktop
 
